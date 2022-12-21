@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "KeyLangEditor",
+    "productName": "key_lang_editor",
     "version": "0.0.0"
   },
   "tauri": {
@@ -62,7 +62,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "KeyLangEditor",
+        "title": "Key Lang Editor",
         "width": 800
       }
     ]
